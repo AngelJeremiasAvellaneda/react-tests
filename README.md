@@ -1,12 +1,9 @@
----
-
-````markdown
 # 🛒 Filtro de Productos con React + TailwindCSS
 
 Aplicación simple creada con **React** y **Tailwind CSS v3**, que permite **filtrar productos** por nombre y disponibilidad en stock.  
 Ideal para aprender el patrón de componentes y el manejo de estado con `useState` en React.
 
----
+
 
 ## 🚀 Tecnologías utilizadas
 
@@ -14,7 +11,7 @@ Ideal para aprender el patrón de componentes y el manejo de estado con `useStat
 - 🎨 **Tailwind CSS v3**
 - 📦 **Node.js** y **npm**
 
----
+
 
 ## ⚙️ Instalación y configuración
 

@@ -1,3 +1,5 @@
+---
+
 ````markdown
 # 🛒 Filtro de Productos con React + TailwindCSS
 
